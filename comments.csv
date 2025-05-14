@@ -5,7 +5,7 @@ user_id,product_id,comment
 2,4,Excellent!
 2,5,Excellent!
 2,6,Amazing!
-3,2,Best purchase ever!
+3,2,I love this product!
 3,3,Excellent!
 3,4,Excellent!
 3,5,I love this product!
@@ -13,19 +13,19 @@ user_id,product_id,comment
 4,2,I love this product!
 4,3,Amazing!
 4,4,Amazing!
-4,5,Best purchase ever!
+4,5,I love this product!
 4,6,Amazing!
-5,2,Best purchase ever!
+5,2,I love this product!
 5,3,I love this product!
 5,4,I love this product!
 5,5,Excellent!
 5,6,Excellent!
-6,2,Best purchase ever!
+6,2,I love this product!
 6,3,Amazing!
 6,4,Excellent!
-6,5,Best purchase ever!
+6,5,I love this product!
 6,6,Amazing!
 7,2,I love this product!
 7,1,Amazing!
 8,2,I love this product!
-8,1,Best purchase ever!
+8,1,I love this product!
